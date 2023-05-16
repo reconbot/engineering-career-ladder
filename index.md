@@ -1,7 +1,6 @@
 # Etsy Engineering Career Ladder
 
 [Level Progression](index.md) | [Competencies](competencies.md)
-\([download as .pdf](Etsy_Engineering_Career_Ladder.pdf)\)
 
 ## Level Progression
 
