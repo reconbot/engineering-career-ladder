@@ -1,11 +1,13 @@
-# Etsy Engineering Career Ladder
+# Engineering Career Ladder
+
 [Level Progression](index.md) | [Competencies](competencies.md)
-\([download as .pdf](Etsy_Engineering_Career_Ladder.pdf)\)
 
 ## Competencies
+
 Mastery of a competency is cumulative. At each successive level, engineers are expected to retain the skills and characteristics required at earlier levels.
 
 ### Delivery
+
 **Example Skills:** Scoping and prioritization, Testing and monitoring, Shipping to production, Initiative
 <table>
     <thead>
@@ -69,6 +71,7 @@ Mastery of a competency is cumulative. At each successive level, engineers are e
 </table>
 
 ### Domain Expertise
+
 **Example Skills:** Knowledge of your discipline (e.g. Payments, AppSec, Provisioning, Machine Learning), Language, Tools, Business and product sense
 <table>
     <thead>
@@ -126,6 +129,7 @@ Mastery of a competency is cumulative. At each successive level, engineers are e
 </table>
 
 ### Problem Solving
+
 **Example Skills:** Architecture &amp; design patterns, Breaking down large problems, Critical thinking, Analytical skills, Creativity, Decision making
 <table>
     <thead>
@@ -188,6 +192,7 @@ Mastery of a competency is cumulative. At each successive level, engineers are e
 </table>
 
 ### Communication
+
 **Example Skills:** Documentation, Collaboration, Relationship-building, Interviewing, Listening, Empathy
 <table>
     <thead>
@@ -252,6 +257,7 @@ Mastery of a competency is cumulative. At each successive level, engineers are e
 </table>
 
 ### Leadership
+
 **Example Skills:** Accountability, Responsibility, Mentorship, Making hard decisions, Setting an example
 <table>
     <thead>
