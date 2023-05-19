@@ -1,8 +1,8 @@
 # Etsy Engineering Career Ladder
 
-[Level Progression](index.md) | [Competencies](competencies.md)
+[Roles and Levels](roles.md) | [Competencies](competencies.md)
 
-## Level Progression
+## Roles and Levels
 
 ### Engineer I
 
