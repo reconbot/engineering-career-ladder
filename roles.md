@@ -1,4 +1,4 @@
-# Etsy Engineering Career Ladder
+# Engineering Career Ladder
 
 [Roles and Levels](roles.md) | [Competencies](competencies.md)
 
